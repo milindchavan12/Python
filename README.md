@@ -14,3 +14,4 @@ PIP is package manager for Python, to install pip :
 
 ## Difference between Python 2 vs Python 3
 
+![alt text](https://github.com/milindchavan12/Python/blob/master/assets/p2p3.png)
